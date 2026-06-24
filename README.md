@@ -56,6 +56,3 @@ Author
 Subbulakshmi @ Aiswarya P
 
 
-## 👩‍💻 Author
-**Ais warya Palanivel**
-Biomedical Engineering Graduate | Data Science Enthusiast

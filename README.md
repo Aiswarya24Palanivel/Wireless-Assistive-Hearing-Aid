@@ -1,4 +1,4 @@
-# Wireless Assistive Hearing Aid
+# Intelligent Speech-to-Text Platform for Hearing Support
 
 ## Overview
 The Wireless Assistive Communication Device is designed to help individuals with hearing and speech impairments communicate effectively. The system uses embedded technology and wireless communication to convert user inputs into text and speech, enabling seamless interaction in real-time.
